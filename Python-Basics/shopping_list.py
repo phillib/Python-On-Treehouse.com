@@ -17,5 +17,4 @@ while True: #While loop for list input
   
 print("Here's your list:")
 
-for item in shopping_list: #prints all items in your new list
-  print(item)
+print(', '.join(shopping_list) + '.') #Print all items in your new list, separated by a comma, and ending with a period.

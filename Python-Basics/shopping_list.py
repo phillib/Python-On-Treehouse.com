@@ -1,4 +1,4 @@
-#Created using Python 3
+#Created using Python 3.4.1
 
 shopping_list = list() #Empty list
 

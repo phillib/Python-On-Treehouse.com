@@ -2,7 +2,7 @@
 
 def stringcases(string):
   """
-  This function that akes a string and returns 
+  This function that a string and returns 
   a tuple of four versions of the string: 
   uppercased, lowercased, titlecased 
   (where every word's first letter is capitalized), 
